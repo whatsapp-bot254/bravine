@@ -96,7 +96,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'HUNTER-XMD~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'sir bravin~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -136,12 +136,12 @@ ______________________________
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/002
+https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel http?si=urZpt-b7F8StY5TV
+🪄 YouTube Channel https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
-*🥀 Powered by Hunter-xmd 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
