@@ -18,16 +18,16 @@ const MESSAGE = process.env.MESSAGE ||  `
 *💪 Empowering Your Experience with Hunter xmd Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Obedweb/Hunter-Xmd1
+🔗 https://github.com/whatsapp-bot254 
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
+https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
+🪄 https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
-*🥀 Powered by Hunter xmd 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
