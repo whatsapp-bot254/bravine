@@ -96,7 +96,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'SIR-BRAVIN~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'Sir-creins~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -112,8 +112,8 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363416335506023@newsletter',
-                                    newsletterName: 'OBED TECH 💖',
+                                    newsletterJid: '120363419969992177@newsletter',
+                                    newsletterName: 'sir creins💖',
                                     serverMessageId: 143
                                 }
                             }
@@ -129,19 +129,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with HUNTER XMD Bot*
+*💪 Empowering Your Experience with creins xmd Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Obedweb/Hunter-Xmd1
+🔗 https://github.com/sir-bravin111/new-bot
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
+https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
+🪄 YouTube Channel https://youtube.com
 
-*🥀 Powered by Hunter-xmd 🥀*
+*🥀 Powered by creins 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
@@ -158,8 +158,8 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363416335506023@newsletter',
-                                    newsletterName: 'OBED TECH 💖',
+                                    newsletterJid: '120363419969992177@newsletter',
+                                    newsletterName: 'sir creins 💖',
                                     serverMessageId: 143
                                 }
                             }
